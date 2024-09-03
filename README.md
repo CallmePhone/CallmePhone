@@ -1,8 +1,8 @@
-## Hi there 👋 I'm PHONE
+## Hi there 👋
 
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN0NDE2amRkcWl4em50dHJpeXltcnY0ejNiM24wazdrcjd3c3FnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRoZHRlZnB4Z2czY3B2MDRwY3doeTA3MDdldHhlMG9qYXlsdXZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp" width="220">
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/pphichanan.srirattanapat" >
