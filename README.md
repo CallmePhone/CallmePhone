@@ -2,7 +2,16 @@
 
 
 **CallmePhone/CallmePhone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  
+  <a href=["your-youtube-URL"](https://www.instagram.com/pps_pxne/)>
+    <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram Badge"/>
+  </a>
 
+   <a href=["your-youtube-URL"](https://www.facebook.com/pphichanan.srirattanapat)>
+    <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" alt="Facebook Badge"/>
+  </a>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
