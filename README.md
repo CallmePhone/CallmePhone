@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 - 🎓 A student in COMPUTER TECHNIQUE.
 - 🌱 I’m currently learning about the basics of coding.
-- 📫 How to reach me: phonephichanan@gmail.com
+- 📫 How to reach me: <a href="phonephichanan@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ig Badge"/>
+  </a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
