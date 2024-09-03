@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<div>[![GitHub Streak](https://streak-stats.demolab.com/?user=CallmePhone) align="center"](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CallmePhone)](https://git.io/streak-stats)
