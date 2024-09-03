@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🎓 A student in COMPUTER TECHNIQUE.
 - 🌱 I’m currently learning about the basics of coding.
-- 📫 How to reach me: "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"(mailto:your-email@example.com)
+- 📫 How to reach me: [https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](mailto:your-email@example.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
