@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=16&pause=1000&color=8BF5FA&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello!+I'm+PHONE.;I+am+a+beginner+developer.;I'll+keep+improving+my+skills.)](https://git.io/typing-svg)
+</div>
+<div id="header" align="center">
+
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRoZHRlZnB4Z2czY3B2MDRwY3doeTA3MDdldHhlMG9qYXlsdXZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp" width="220">
 </div>
 <div id="badges" align="center">
@@ -19,7 +23,7 @@
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -34,16 +38,25 @@
 ---
 
 ### :fire: My Stats :
+
+
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=CallmePhone&theme=black-ice&border_radius=8.7&ring=223DEB)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallmePhone&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallmePhone&show_icons=true&theme=tokyonight)
 
+
+
+## 📊 GitHub Stats
+<div id="badges" align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallmePhone&show_icons=true&theme=tokyonight)
+</div>
 
 <div id="badges" align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=16&pause=1000&color=8BF5FA&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile.+%F0%9F%92%AF)](https://git.io/typing-svg)
+  
  
 </div>
