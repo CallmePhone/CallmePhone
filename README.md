@@ -52,7 +52,7 @@
 
 <div id="badges" align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=16&pause=1000&color=8BF5FA&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile.+%F0%9F%92%AF)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=21&pause=1000&color=4DE3FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Thankyou+for+visiting+myprofile+%E2%9D%97%E2%9D%97.)](https://git.io/typing-svg)
   
  
 </div>
