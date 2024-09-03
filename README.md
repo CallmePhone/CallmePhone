@@ -4,10 +4,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN0NDE2amRkcWl4em50dHJpeXltcnY0ejNiM24wazdrcjd3c3FnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/pphichanan.srirattanapat">
+  <a href="https://www.facebook.com/pphichanan.srirattanapat" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/pps_pxne/">
+  <a href="https://www.instagram.com/pps_pxne/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
