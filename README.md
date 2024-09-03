@@ -1,7 +1,5 @@
-## Hi there 👋
-
-
 <div id="header" align="center">
+  
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRoZHRlZnB4Z2czY3B2MDRwY3doeTA3MDdldHhlMG9qYXlsdXZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp" width="220">
 </div>
 <div id="badges" align="center">
@@ -42,3 +40,10 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallmePhone&show_icons=true&theme=tokyonight)
+
+
+<div id="badges" align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=16&pause=1000&color=8BF5FA&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile.+%F0%9F%92%AF)](https://git.io/typing-svg)
+ 
+</div>
