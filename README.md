@@ -16,6 +16,7 @@
 
 - 🎓 A student in COMPUTER TECHNIQUE.
 - 🌱 I’m currently learning about the basics of coding.
+- 🚀 Currently learning web development and programming  
 
 - ---
 
@@ -37,3 +38,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CallmePhone&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CallmePhone&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallmePhone&show_icons=true&theme=radical)
