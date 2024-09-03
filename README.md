@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 
 - 🎓 A student in COMPUTER TECHNIQUE.
 - 🌱 I’m currently learning about the basics of coding.
+
+- ---
+
+### :hammer_and_wrench: Languages and Tools :
