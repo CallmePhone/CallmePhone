@@ -1,6 +1,5 @@
 <div id="header" align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=21&pause=1000&color=4DE3FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello!+I'm+PHONE.;I+am+a+beginner+developer.;I'll+keep+improving+my+skills.)](https://git.io/typing-svg)
 </div>
 <div id="header" align="center">
 
