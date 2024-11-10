@@ -8,8 +8,8 @@
 </div>
 <div id="header" align="center">
 
-  <img src="![image](https://github.com/user-attachments/assets/5379e06c-e4a9-4450-8618-bc52d41229dc)
-" width="220">
+  ![Ginshi][<img src="![image](https://github.com/user-attachments/assets/5379e06c-e4a9-4450-8618-bc52d41229dc)
+" width="220">](https://i.pinimg.com/736x/e9/e7/bb/e9e7bb0a388435ef2c8085971fb4d496.jpg)
   </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/pphichanan.srirattanapat">
