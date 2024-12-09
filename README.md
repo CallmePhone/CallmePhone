@@ -8,7 +8,7 @@
 </div>
 <div id="header" align="center">
 
-  <img src="https://i.pinimg.com/736x/e9/e7/bb/e9e7bb0a388435ef2c8085971fb4d496.jpg" alt="Ginshi" width="300" style="border-radius: 20%;" />
+  <img src="https://i.pinimg.com/736x/91/77/97/91779771e0c323b769b5468319754d3a.jpg"  width="300" style="border-radius: 20%;" />
   </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/pphichanan.srirattanapat">
