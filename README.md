@@ -22,7 +22,6 @@
 ---
 
 ### :pushpin: About Me :
-- 🎓 A student in COMPUTER TECHNIQUE.
 - 🌱 I’m currently learning about the basics of coding.
 - 🚀 Currently learning web development and programming
 
